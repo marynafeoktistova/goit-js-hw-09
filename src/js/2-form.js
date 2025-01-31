@@ -37,5 +37,5 @@ feedbackForm.elements.email.value = localInfo.email || '';
 feedbackForm.elements.message.value = localInfo.message || '';
 }
 
-document.getElementById("backLink").setAttribute("href", "index.html");
+
 

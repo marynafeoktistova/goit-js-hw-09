@@ -66,7 +66,4 @@ galleryContainer.innerHTML = galleryMarkup;
   });
 
 
-document.getElementById("backLink").addEventListener("click", (event) => {
-  event.preventDefault();
-  window.history.back();  
-});
+
